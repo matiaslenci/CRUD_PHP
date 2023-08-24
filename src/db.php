@@ -1,4 +1,8 @@
 <?php
+session_start();
+
+# iniciamos una sesión para guardar datos
+
 # usamos la mysqli para conectarnos a la db
 # la guardamos en una variable conn
 $conn = mysqli_connect(
@@ -10,7 +14,7 @@ $conn = mysqli_connect(
 );
 
 # Si hay un error en la conexión, mostramos el error
-if(!$conn){
+/* if(!$conn){
   echo 'Error en la conexión⚠️';
-}
+} */
 ?>

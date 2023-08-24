@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,7 +18,7 @@
 </head>
 
 <body >
- 
+
 <nav class="bg-white border-gray-200 ">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="../index.php" class="flex items-center">
