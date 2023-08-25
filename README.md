@@ -1,6 +1,6 @@
 # CRUD PHP
 
-![Mockup](https://github.com/matiaslenci/CRUD_PHP/blob/aprendiendo-php/assets/crud_php_img.jpg)
+![Mockup](assets/crud_php_img.jpg)
 
 - Levantar contenedor ```docker-compose up -d```
 - **PhpMyAdmin**: [localhost:8081](http://localhost:8081)
